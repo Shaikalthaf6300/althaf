@@ -1,0 +1,3 @@
+mksir alth
+clear
+exit
